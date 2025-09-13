@@ -8,6 +8,9 @@ Aura is a mental health companion application that uses AI to provide personaliz
 
 -Participants: Sharvil Titarmare and Tahereem Khan
 
+-userame: @210505
+          @Tahereem Khan
+
 -Country/Region: India
 
 -Email for Notifications: tahereemkhan18@gmail.com
