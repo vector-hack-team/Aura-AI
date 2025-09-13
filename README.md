@@ -70,7 +70,7 @@ Aura is a mental health companion application that uses AI to provide personaliz
    npm start
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) to view the app in your browser
+**Note:** This repository has been shared with @thierrypdamiba and @kanungle for the hackathon submission.
 
 ## Technologies Used
 
