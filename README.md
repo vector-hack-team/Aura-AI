@@ -17,6 +17,8 @@ Aura is a mental health companion application that uses AI to provide personaliz
 
 -GitHub Repository: (https://github.com/vector-hack-team/Aura-AI)
 
+This repository is submitted on behalf of the team "vector-hack-team" with participants Sharvil Titarmare and Tahereem Khan.
+
 ## Features
 
 - **AI Companions**: Choose from different AI personas tailored to your preferences
