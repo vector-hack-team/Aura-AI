@@ -1,0 +1,62 @@
+{
+  "name": "Assessment",
+  "type": "object",
+  "properties": {
+    "assessment_type": {
+      "type": "string",
+      "enum": [
+        "phq9",
+        "gad7",
+        "wellness_check"
+      ],
+      "description": "Type of clinical assessment"
+    },
+    "responses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "question": {
+            "type": "string"
+          },
+          "answer": {
+            "type": "number"
+          }
+        }
+      },
+      "description": "Assessment question responses"
+    },
+    "total_score": {
+      "type": "number",
+      "description": "Total assessment score"
+    },
+    "severity_level": {
+      "type": "string",
+      "enum": [
+        "minimal",
+        "mild",
+        "moderate",
+        "moderately_severe",
+        "severe"
+      ],
+      "description": "Calculated severity level"
+    },
+    "recommendations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Personalized recommendations based on results"
+    },
+    "follow_up_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Recommended follow-up date"
+    }
+  },
+  "required": [
+    "assessment_type",
+    "responses",
+    "total_score"
+  ]
+}
