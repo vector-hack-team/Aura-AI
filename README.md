@@ -2,6 +2,14 @@
 
 Aura is a mental health companion application that uses AI to provide personalized support, mood tracking, and mental health assessments.
 
+#My Submission
+
+Team Name :vector-hack-team
+Participants: Sharvil Titarmare and Tahereem Khan
+Country/Region: India
+Email for Notifications: tahereemkhan18@gmail.com
+GitHub Repository: (https://github.com/vector-hack-team/Aura-AI)
+
 ## Features
 
 - **AI Companions**: Choose from different AI personas tailored to your preferences
